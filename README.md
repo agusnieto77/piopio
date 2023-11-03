@@ -1,3 +1,3 @@
 # piopio
-Un script desarrollado en R para extrtaer tweets con RSelenium
+Un script desarrollado en R para extraer tweets con RSelenium
 # Se aceptan mejoras...
